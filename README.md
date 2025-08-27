@@ -39,4 +39,4 @@ Profesor: *[Nombre del profesor]*
 
 ## 📌 Notas
 Este repositorio tiene fines académicos y busca documentar el proceso de aprendizaje en torno a la innovación disruptiva y su aplicación práctica en la gestión de negocios.  
-# Estrategias_de_innovacion_disruptiva
+
